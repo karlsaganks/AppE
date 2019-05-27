@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Colores</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="calcular">Calcular</string>
+    <string name="titulo">Indice Masa Corporal</string>
+    <string name="text_hint">Texto a buscar</string>
+    <string name="text_name">Introduce busqueda</string>
+    <string name="maximo_de_filas">Maximo de Filas</string>
+    <string name="comenzar_juego">Comenzar Juego</string>
+    <string name="maximo_columnas">Maximo de Columnas</string>
+    <string name="maximo_toques">Maximo de Toques</string>
+    <string name="nombre_jugador">Nombre Jugador</string>
+    <string name="record">Record</string>
+    <string name="pausa">Pausa</string>
+</resources>
